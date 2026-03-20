@@ -1,0 +1,24 @@
+# Python (кэш)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook (временные файлы)
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Настройки VS Code
+.vscode/
+
+# Настройки редактора
+.vscode/
+.idea/
+
+# Виртуальные окружения (на будущее)
+.venv/
+venv/
+ENV/
+
+# Файлы операционной системы
+Thumbs.db
+.DS_Store
